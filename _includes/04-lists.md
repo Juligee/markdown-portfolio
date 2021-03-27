@@ -1,4 +1,5 @@
 :heart: 
+
 Ordered Lists
 Ordered lists have numbers. You can nest ordered lists within a list item by indenting them. You can read more about formatting and syntax in the GitHub Help.
 
@@ -8,6 +9,7 @@ Ordered lists have numbers. You can nest ordered lists within a list item by ind
    1. Item 3a
    2. Item 3b
 
+:heart:
 
 Unordered Lists
 To create an unordered list, use either the - or * character. As with ordered lists, you can nest a list by indenting two spaces.
