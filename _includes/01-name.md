@@ -1,1 +1,1 @@
-Replace this with your name, and include a header.
+# My Name is Greg, This is Markdown Training Session.
